@@ -14,7 +14,7 @@
 CREATE DATABASE IF NOT EXISTS `iscritticorsi` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `iscritticorsi`;
 
-SET SQL_SAFE_UPDATES = 0
+-- SET SQL_SAFE_UPDATES = 0
 
 -- Dump della struttura di tabella iscritticorsi.corso
 CREATE TABLE IF NOT EXISTS `corso` (
